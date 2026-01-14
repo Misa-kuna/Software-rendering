@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'Software rendering' in project 'Software rendering' (no dependencies)
